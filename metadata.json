@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción y Apropiación de Aprendices",
+  "description": "Sistema interactivo para gestionar la inducción SENA: identidad institucional, reglamento del aprendiz (actualizaciones vigentes 2026), dilemas éticos y evaluación de conocimientos con panel de instructor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
